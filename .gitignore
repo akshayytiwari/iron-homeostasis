@@ -1,0 +1,18 @@
+# MATLAB
+*.asv
+*.mat
+*.fig
+*.mex*
+*.mdl
+*.slx
+*.autosave
+*.log
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local project outputs
+results/
+
